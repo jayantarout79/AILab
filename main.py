@@ -12,7 +12,6 @@ import os
 # Removed requests dependency - not needed for core functionality
 
 # ---- CONFIG ----
-openai.api_key = "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"
 
 # Use absolute path for the static directory
 STATIC_PATH = os.path.abspath("generated_files")
